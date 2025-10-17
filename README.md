@@ -1,4 +1,3 @@
 # HTML-CSS-files-2025
-There are ordinary HTML files ....
 - First row added
 - Second row added
